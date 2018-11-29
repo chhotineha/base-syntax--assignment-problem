@@ -1,0 +1,9 @@
+.display{
+    width:60%;
+    border:1px dashed #000000;
+    padding:20px;
+    margin: 15px;
+}
+p{
+    font-family: 'Courier New', Courier, monospace
+}
